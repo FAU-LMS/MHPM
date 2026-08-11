@@ -10,16 +10,18 @@ The MHPM database provides 25 scenes recorded from 800 nm to 1600 nm in 25 nm an
 
 The images are already calibrated, normalized, and registered and reconstructed.
 
-Camera specifics
-| ----------------- | Grayscale camera | RGB camera | Short-wave infrared camera (SWIR)|
-| Camera type | Allied Vision Alvium 1800 U-1240m | Allied Vision Alvium 1800 U-1240c | Allied Vision Alvium 1800 U-130m VSWIR        |
-| Focal Length | 5mm    | 5mm       |  60.1mm      | 
-| Image Sensor  | Sony IMX226   |    Sony IMX226     | Sony IMX990     | 
-| Sensor pixel size | 1.85μm   | 1.85μm       | 5μm      | 
-| Resolution | 4024x3036   | 4024x3036      | 1296x1032     | 
-| Frame rate | 35 fps | 35 fps | 130 fps|
-| Bit depth | 10 | 10 | 10 |
-| Lens transmission | 200 nm - 1150 nm | 300 nm - 1100 nm | 400 nm - 1700 nm |
+Camera specifics:
+
+| | Grayscale camera | RGB camera | Short-wave infrared camera (SWIR) |
+| :--- | :--- | :--- | :--- |
+| **Camera type** | Allied Vision Alvium 1800 U-1240m | Allied Vision Alvium 1800 U-1240c | Allied Vision Alvium 1800 U-130m VSWIR |
+| **Focal Length** | 5mm | 5mm | 60.1mm |
+| **Image Sensor** | Sony IMX226 | Sony IMX226 | Sony IMX990 |
+| **Sensor pixel size** | 1.85 µm | 1.85 µm | 5 µm |
+| **Resolution** | 4024 x 3036 | 4024 x 3036 | 1296 x 1032 |
+| **Frame rate** | 35 fps | 35 fps | 130 fps |
+| **Bit depth** | 10 | 10 | 10 |
+| **Lens transmission** | 200 nm - 1150 nm | 300 nm - 1100 nm | 400 nm - 1700 nm |
 
 ## Framework Usage
 In progress
