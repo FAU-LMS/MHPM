@@ -11,11 +11,11 @@ The MHPM database provides 25 scenes recorded from 800 nm to 1600 nm in 25 nm an
 The images are already calibrated, normalized, and registered and reconstructed.
 
 Camera specifics
-| | Grayscale camera | RGB camera | Short-wave infrared camera (SWIR)|
+| ----------------- | Grayscale camera | RGB camera | Short-wave infrared camera (SWIR)|
 | Camera type | Allied Vision Alvium 1800 U-1240m | Allied Vision Alvium 1800 U-1240c | Allied Vision Alvium 1800 U-130m VSWIR        |
 | Focal Length | 5mm    | 5mm       |  60.1mm      | 
 | Image Sensor  | Sony IMX226   |    Sony IMX226     | Sony IMX990     | 
-| Sonsor pixel size | 1.85μm   | 1.85μm       | 5μm      | 
+| Sensor pixel size | 1.85μm   | 1.85μm       | 5μm      | 
 | Resolution | 4024x3036   | 4024x3036      | 1296x1032     | 
 | Frame rate | 35 fps | 35 fps | 130 fps|
 | Bit depth | 10 | 10 | 10 |
