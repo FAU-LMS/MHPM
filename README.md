@@ -30,7 +30,7 @@ In progress
 The database and source are licensed under the Creative Commons CC BY license, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
 If you use the dataset or source for your research, you should cite the follwing paper:
 ```
-@article{kossira2026multispectral,
+@article{Kossira2026-1,
   title={Multispectral household plastic classification for recycling using a camera array},
   author={Kossira, Katja and Seiler, J{\"u}rgen and Kaup, Andr{\'e}},
   journal={Journal on Advances in Signal Processing},
