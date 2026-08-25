@@ -3,7 +3,7 @@
 ## Overview
 Effective plastic recycling requires the accurate identification of polymer types. However, existing optical sorting systems often struggle to distinguish common household plastics reliably. To overcome this identification bottleneck, multispectral imaging is necessary to capture the unique near-infrared (NIR) spectral fingerprints of different materials. Therefore, a <ins>M</ins>ultispectral <ins>H</ins>ousehold <ins>P</ins>lastic <ins>M</ins>aterial database (MHPM) was developed, which can be processed to train and evaluate automated material classifiers. For this, the database contains multispectral recordings of the seven most common household plastics, captured by a nine-camera array setup equipped with distinct NIR bandpass filters. The approach to extract the spectral fingerprints involves a dedicated preprocessing pipeline that spatially aligns and normalizes the raw images to derive features such as wavelength intensity differences and false-color representations. Of course, this database also can be used for many other tasks, where reliable material identification is necessary, for example, evaluating machine learning models, optimizing spectral band selection, and developing cost-efficient industrial sorting pipelines.
 
-The paper can be found on [Springer Nature](https://link.springer.com/article/10.1186/s13634-026-01362-8) and [arXiv]().
+The paper can be found on [Springer Nature](https://link.springer.com/article/10.1186/s13634-026-01362-8) and [arXiv](https://arxiv.org/abs/2608.22531).
 
 ## Database
 The actual data can be found here: TBA
