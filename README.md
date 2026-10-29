@@ -6,7 +6,7 @@ Effective plastic recycling requires the accurate identification of polymer type
 The paper can be found on [Springer Nature](https://link.springer.com/article/10.1186/s13634-026-01362-8) and [arXiv](https://arxiv.org/abs/2608.22531).
 
 ## Database
-The actual data can be found here: [Database](https://cris.fau.de/datasets/370444152/)
+The actual data can be found here: [Database](TBA)
 
 The MHPM database provides 25 scenes recorded from 800 nm to 1600 nm in 25 nm and 50 nm steps, resulting in 24 multispectral channels. Furthermore, one RGB image of each scene is contained. Additionally, the Spectral fingerprints of each material class are included. The images are cropped/upsampled to a resolution of 1740 x 1348 pixels.
 
